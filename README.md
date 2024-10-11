@@ -3,7 +3,7 @@
 
 ### Model used : [nemotron-4-340b-instruct](https://build.nvidia.com/nvidia/nemotron-4-340b-instruct)
 
-### Synthetic data generation : unsuccessful
+### Synthetic data generation : successful
 
 ### library used : langchain, openai
 
